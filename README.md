@@ -19,7 +19,7 @@
 ### 本地开发
 ```bash
 # 克隆仓库
-git clone https://github.com/<your_username>/<repo_name>.git
+git clone https://github.com/devpan25/devpan25.git
 
 # 安装依赖
 npm install
